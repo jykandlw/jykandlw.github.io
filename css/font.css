@@ -1,0 +1,28 @@
+@font-face{
+    font-family: 'Barlow';
+    font-display: swap;
+    src: url('../font/BarlowCondensed-Medium.ttf') format("truetype");
+}
+@font-face{
+    font-family: 'Feihuasongti';
+    font-display: swap;
+    src: url('../font/FeiHuaSongTi-2.ttf') format("truetype");
+}
+@font-face{
+    font-family: 'Lobster';
+    font-display: swap;
+    src: url('../font/Lobster-Regular.ttf') format("truetype");
+}
+@font-face{
+    font-family: 'Pacifico';
+    font-display: swap;
+    src: url('../font/Pacifico-Regular.ttf') format("truetype");
+}
+@font-face{
+    font-family: 'JosefinSans';
+    font-display: swap;
+    src: url('../font/JosefinSans-Regular.ttf') format("truetype");
+}
+body {
+    font-family: 'Barlow','Feihuasongti','Lobster','Pacifico','JosefinSans';
+}
